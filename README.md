@@ -14,7 +14,7 @@ Run the program, and when prompted, input your username:
 The program checks against the following predefined usernames:
 - `prebj20`
 - `jwp65`
-- `xim52`
+- `maxiaocheng2002`
 ## Requirements
 - Python 3.x
 
